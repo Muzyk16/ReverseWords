@@ -1,5 +1,5 @@
 # ReverseWords
-Program do obracania słów w podanym tekscie
+Program do obracania słów w podanym tekście
 ===============================================
 
 
